@@ -1,2 +1,2 @@
-# Dislor
-Dislor (Discord-Clone)
+# Dislord
+Dislord (Discord-Clone)
