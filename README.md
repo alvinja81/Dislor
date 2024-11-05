@@ -1,2 +1,2 @@
-# Miro-Clone
+# Dislor
 Dislor (Discord-Clone)
